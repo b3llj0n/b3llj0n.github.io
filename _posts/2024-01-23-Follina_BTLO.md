@@ -15,7 +15,7 @@ image:
 
 ### Question 2) According to VirusTotal, what is the full filetype of the provided sample? (Format: X X X X)
 
-Upload files to **VirusTotal**, via detail tab ~~
+Upload files to **VirusTotal**, via detail tab ~~ a
 
 ### Question 3) Extract the URL that is used within the sample and submit it (Format: https://x.domain.tld/path/to/something) (1 points)
 
