@@ -14,7 +14,7 @@ timezone: Asia/Saigon
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 2$0b # the main title
+title: b3llj0n # the main title
 
 tagline: SOC Analysis / Blue Team / Icident Response
  # it will display as the sub-title
@@ -35,12 +35,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 2$0b.|3r0th3rcc
+  name: b3llj0n
   email: 2sob.3r0th3rcc@gmail.com.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # https://twitter.com/username # change to your twitter homepage
-    - https://github.com/zs0b # change to your github homepage
+    - https://github.com/b3llj0n # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/2sob_04
     - https://www.linkedin.com/in/nguyentatdat
@@ -94,7 +94,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: zs0b/zs0b.github.io # <gh-username>/<repo>
+    repo: b3ljj0n/b3llj0n.github.io # <gh-username>/<repo>
     repo_id: R_kgDOLIMMwg
     category: General
     category_id: DIC_kwDOLIMMws4Ccouh
